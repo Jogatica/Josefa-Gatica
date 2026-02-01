@@ -1,7 +1,7 @@
 # Josefa-Gatica
 # Hola, soy Jo 👋
 
-Soy estudiante de sociología en mi penúltimo año en la **Universidad Alberto Hurtado**.  
+Soy estudiante de sociología en mi penúltimo año en la **Universidad Alberto Hurtado** en Chile.  
 Me interesa usar datos y herramientas cuantitativas para analizar fenómenos sociales, especialmente desde una mirada crítica y con enfoque de género.
 
 ### 🧠 Sobre mí
