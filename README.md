@@ -14,8 +14,8 @@ Me interesa usar datos y herramientas cuantitativas para analizar fenómenos soc
 - Sociología de la educación  
 - Política y políticas públicas  
 - Género y cuidados 
-- Antropología 
 - Sociología jurídica  
+- Antropología 
 
 ### 📈 En qué estoy trabajando
 - Profundizar mis habilidades en **R**  
