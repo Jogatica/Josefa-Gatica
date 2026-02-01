@@ -13,13 +13,15 @@ Me interesa usar datos y herramientas cuantitativas para analizar fenómenos soc
 ### 🔍 Intereses académicos
 - Sociología de la educación  
 - Política y políticas públicas  
-- Género y cuidados  
+- Género y cuidados 
+- Antropología 
 - Sociología jurídica  
 
 ### 📈 En qué estoy trabajando
 - Profundizar mis habilidades en **R**  
 - Análisis de datos sociales  
-- Proyectos académicos y personales relacionados con desigualdad y políticas públicas  
+- Proyectos académicos y personales relacionados con desigualdad y políticas públicas
+- Minor en Antropología
 
 ### 🌱 Aprendizaje
 Me interesa seguir aprendiendo sobre análisis de datos, métodos cuantitativos y cómo usar la programación para responder preguntas sociológicas relevantes.
