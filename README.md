@@ -1,19 +1,29 @@
 # Josefa-Gatica
+# Hola, soy Jo 👋
 
-Bienvenidos a mi perfil
+Soy estudiante de sociología en mi penúltimo año en la **Universidad Alberto Hurtado**.  
+Me interesa usar datos y herramientas cuantitativas para analizar fenómenos sociales, especialmente desde una mirada crítica y con enfoque de género.
 
-Me gusta que me digan Jo, tengo 24 años
+### 🧠 Sobre mí
+- 👩‍💻 Pronombres: she/her  
+- 🎓 Sociología (penúltimo año)  
+- 📊 Nivel intermedio en **R**  
+- 🏛️ Experiencia en el **Ministerio de Vivienda y Urbanismo (MINVU)**  
 
-Prononmbres: she/her
+### 🔍 Intereses académicos
+- Sociología de la educación  
+- Política y políticas públicas  
+- Género y cuidados  
+- Sociología jurídica  
 
-Estudiante de penúltimo año de sociología en la Universidad Alberto Hurtado
+### 📈 En qué estoy trabajando
+- Profundizar mis habilidades en **R**  
+- Análisis de datos sociales  
+- Proyectos académicos y personales relacionados con desigualdad y políticas públicas  
 
-Mi nivel en R es intermedio actualmente
+### 🌱 Aprendizaje
+Me interesa seguir aprendiendo sobre análisis de datos, métodos cuantitativos y cómo usar la programación para responder preguntas sociológicas relevantes.
 
-Tengo experiencia en el Ministerio de Vivienda y Urbanismo (MINVU) 
+### 💖 Un poco más personal
+Amante de los gatos 🐱, la playa 🌊, la lectura 📚, la música 🎶 y los deportes 🏃‍♀️
 
-Me interesa aprender más y mejorar habilidades en R 
-
-Mi interés está en la sociología de la educación, política, género, cuidados y jurídica
-
-Me gustan los gatos, la playa, leer, escuchar musica y los deportes
